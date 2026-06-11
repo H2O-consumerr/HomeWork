@@ -1,0 +1,1 @@
+alert( alert(1) || 2 || alert(3) );// ouputs 1, ten 2h
